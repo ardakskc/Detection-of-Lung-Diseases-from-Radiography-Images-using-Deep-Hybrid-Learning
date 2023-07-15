@@ -26,3 +26,8 @@ The aim of this study is to provide an automated method for detecting and classi
 
 The performance evaluation showed that using ResNet-50 with Support Vector Machine gave the best results, so they were chosen as the executable models for our project. With the implementation of this project, doctors can make use of this artificial intelligence-based decision support system as a time-saving and reliable source of lung disease detection.
 
+Project Contributors:
+
+-Arda Kaşıkçı
+
+-Elif Mertoğlu
