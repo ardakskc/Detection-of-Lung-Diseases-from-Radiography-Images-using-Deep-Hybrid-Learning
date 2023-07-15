@@ -9,6 +9,8 @@ In this study, detection and classification of diseases on lung radiography imag
 Project Results:
 
 Hybrid Learning results for each deep learning models.
+
+
 ![image](https://github.com/ardakskc/Detection-of-Lung-Diseases-from-Radiography-Images-using-Deep-Hybrid-Learning/assets/44347054/9cd3aa75-3754-4452-8a93-9732abba133f)
 
 ![image](https://github.com/ardakskc/Detection-of-Lung-Diseases-from-Radiography-Images-using-Deep-Hybrid-Learning/assets/44347054/41599351-117a-4dd8-9027-6009d46815b6)
