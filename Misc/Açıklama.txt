@@ -1,0 +1,3 @@
+Google Colab, modelin eğitimi için kullanılmıştır.
+Google Drive, veri setinin ve ağırlık dosyalarının depolanması için kullanılmıştır.
+PyCharm, arayüzün hazırlanması için kullanılmıştır.
